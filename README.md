@@ -2,7 +2,7 @@
 
 #### How to run the web-app:
 
-- Step 1: Clone the app by command " git clone https://github.com/Divicodes/team-project-gof"
+- Step 1: Clone the app by command " git clone https://github.com/Divicodes/Airport-Management"
 - Step 2: Go to the client directory and install node modules by command "npm i OR npm install"
 - Step 3: Run the client by command "npm start"
 - Step 4: Go to the server directory and install node modules "npm i OR npm install"
